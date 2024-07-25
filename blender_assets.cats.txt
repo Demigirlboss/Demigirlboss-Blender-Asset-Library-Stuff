@@ -1,0 +1,22 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+19e8ddd0-3b83-45c1-a987-afbebeaf6a13:Base Meshes:Base Meshes
+4a831199-3906-4fcf-8072-e7c12531a89c:Base Meshes/Full Body:Base Meshes-Full Body
+6d28abc6-d543-4333-ab55-02e4dbd24cb0:Base Meshes/Full Body/Realistic:Base Meshes-Full Body-Realistic
+cc6432bd-3ae3-45d8-b554-f2fb4c5db7e2:Base Meshes/Full Body/Realistic/Primitive:Base Meshes-Full Body-Realistic-Primitive
+db2e4176-39fa-40aa-bc8e-5a266e3d7b1b:Base Meshes/Full Body/Stylized:Base Meshes-Full Body-Stylized
+fea421b3-2e62-40f4-8318-4d4557367b29:Base Meshes/Full Body/Stylized/Primitive:Base Meshes-Full Body-Stylized-Primitive
+f0bce6a9-2da0-4ea7-a6df-e2621bb84969:Base Meshes/Individual Bits:Base Meshes-Individual Bits
+57219385-9ea8-4d40-9596-4f9a2f569b68:Base Meshes/Individual Bits/Heads:Base Meshes-Individual Bits-Heads
+8d0efbc2-02d4-42e8-be64-86a1a6b0acbe:Base Meshes/Individual Bits/Realistic:Base Meshes-Individual Bits-Realistic
+a48824de-2ef3-44d3-ade6-72b7e3d92c88:Base Meshes/Individual Bits/Skulls:Base Meshes-Individual Bits-Skulls
+6c9f407a-e036-4620-8b5b-bcc7ae804d2f:Base Meshes/Individual Bits/Stylized:Base Meshes-Individual Bits-Stylized
+e5fae0cf-be79-4fe0-8033-1de88256cf08:Kitbashes:Kitbashes
+862201f9-a010-4fcb-a6bc-b80921ffca23:Kitbashes/Electrical Components:Kitbashes-Electrical Components
+33e02edf-703e-4517-a17c-256a8a486b89:Primitives:Primitives
